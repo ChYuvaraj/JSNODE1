@@ -1,0 +1,20 @@
+{
+  "name": "jsnode1",
+  "version": "1.0.0",
+  "description": "serv",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "yuvi": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "yuvaraj",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/ChYuvaraj/JSNODE1)"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
