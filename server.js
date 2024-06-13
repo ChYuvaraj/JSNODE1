@@ -87,4 +87,10 @@ http
   });
   
   //http:localhost:8081
-  
+   //http:localhost:8081/
+
+  //http:localhost:8081/signin
+  //http:localhost:8081/signup
+  //http:localhost:8081/home
+  //http:localhost:8081/contactUs
+  //http:localhost:8081/AboutUs
